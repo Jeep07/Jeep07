@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @Jeep07
-- 👀 I’m interested in Home Automation, CNC, General Utility Coding etc....
-- 🌱 I’m currently learning Groovy and Python ...
-- 💞️ I’m looking to collaborate on Hubitat ...
-- 📫 How to reach me Maybe.....
+# Hey, I'm Wes 👋
 
-<!---
-Jeep07/Jeep07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  I build AI systems that ship to production. Currently focused on healthcare, but my work can span multiple industries
+
+  ## What I'm Working On
+
+  - **[Phiniti.ai](https://phiniti.ai)** / **[Ambient Scribe](https://ambient-scribe.com)** — AI-powered clinical documentation platform
+  - Building with AWS Bedrock, OpenAI, Claude, and Claude Agent SDK
+  - Full-stack: Swift, Kotlin, TypeScript, Next.js
+  - Serverless infrastructure and agentic workflows
+
+  ## Background
+
+  25+ years in technology. CIO/CTO roles, founded a few companies. I like solving hard problems.
+
+  ## Open Source
+
+  Starting to open source some experiments and utilities. More coming soon.
+
+  ## Tech I Use
+
+  `AWS Bedrock` `Claude` `OpenAI` `TypeScript` `Swift` `Kotlin` `Python` `Next.js` `FHIR` `Serverless`
+
+  ## Connect
+
+  - [wesleycombs.com](https://wesleycombs.com)
+  - [LinkedIn](https://linkedin.com/in/hieguy)
