@@ -25,3 +25,22 @@
 
   - [wesleycombs.com](https://wesleycombs.com)
   - [LinkedIn](https://linkedin.com/in/hieguy)
+
+<!-- velocity:start -->
+## AI Engineering Velocity
+
+**Real production metrics** (auto-refreshed weekly from GitHub + source repos — not a static graphic).
+
+- **2.6M** lines in production
+- **13-15** active codebases
+- **+64K** net lines this week
+- **6,056** contributions in the last year
+
+**≈5×** the output of a 100-engineer team at a fraction of the cost.
+
+[See the full velocity story, charts, and the math →](https://wesleycombs.com/ai-engineering-velocity)
+
+![GitHub activity](https://raw.githubusercontent.com/Phiniti/wesleycombs.com-lp/main/public/velocity/contributions.png)
+
+*Updated weekly via automation • 2026-06-12*
+<!-- velocity:end -->
