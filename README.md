@@ -31,16 +31,18 @@
 
 **Real production metrics** (auto-refreshed weekly from GitHub + source repos — not a static graphic).
 
-- **2.6M** lines in production
-- **13-15** active codebases
-- **+64K** net lines this week
-- **6,058** contributions in the last year
+| Metric                      | Value      |
+|-----------------------------|------------|
+| Lines in production         | **2.6M** |
+| Active codebases            | **13-15** |
+| Net lines this week         | **+64K** |
+| Contributions in last year  | **6,061** |
 
 **≈5×** the output of a 100-engineer team at a fraction of the cost.
 
 [See the full velocity story, charts, and the math →](https://wesleycombs.com/ai-engineering-velocity)
 
-![GitHub activity](https://raw.githubusercontent.com/Phiniti/wesleycombs.com-lp/main/public/velocity/contributions.png)
+![AI engineering velocity contribution heatmap](https://raw.githubusercontent.com/Jeep07/Jeep07/main/contributions.png)
 
 *Updated weekly via automation • 2026-06-12*
 <!-- velocity:end -->
