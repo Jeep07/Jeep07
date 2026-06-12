@@ -36,9 +36,11 @@
 | Lines in production         | **2.6M** |
 | Active codebases            | **13-15** |
 | Net lines this week         | **+64K** |
-| Contributions in last year  | **6,061** |
+| Contributions in last year  | **6,065** |
 
 **≈5×** the output of a 100-engineer team at a fraction of the cost.
+
+![Monthly velocity trend — focus on the purple trajectory line](https://raw.githubusercontent.com/Jeep07/Jeep07/main/velocity-trend.png)
 
 [See the full velocity story, charts, and the math →](https://wesleycombs.com/ai-engineering-velocity)
 
