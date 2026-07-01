@@ -35,10 +35,10 @@
 |-----------------------------|------------|
 | Lines in production         | **2.7M** |
 | Active codebases            | **13-15** |
-| Net lines this week         | **+20K** |
-| Contributions in last year  | **6,752** |
+| Net lines this week         | **+21K** |
+| Contributions in last year  | **6,769** |
 
-**≈5×** the output of a 100-engineer team at a fraction of the cost.
+**≈6×** the output of a 100-engineer team at a fraction of the cost.
 
 ![Monthly velocity trend — focus on the purple trajectory line](https://raw.githubusercontent.com/Jeep07/Jeep07/main/velocity-trend.png)
 
@@ -46,5 +46,5 @@
 
 ![AI engineering velocity contribution heatmap](https://raw.githubusercontent.com/Jeep07/Jeep07/main/contributions.png)
 
-*Updated weekly via automation • 2026-06-30*
+*Updated weekly via automation • 2026-07-01*
 <!-- velocity:end -->
