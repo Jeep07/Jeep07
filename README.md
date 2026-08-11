@@ -33,10 +33,10 @@
 
 | Metric                      | Value      |
 |-----------------------------|------------|
-| Lines in production         | **3.3M** |
+| Lines in production         | **3.4M** |
 | Active codebases            | **13-15** |
-| Net lines this week         | **+105** |
-| Contributions in last year  | **7,843** |
+| Net lines this week         | **+383** |
+| Contributions in last year  | **7,846** |
 
 **≈3×** the output of a 100-engineer team at a fraction of the cost.
 
