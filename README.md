@@ -36,7 +36,7 @@
 | Lines in production         | **4.3M** |
 | Active codebases            | **13-15** |
 | Net lines this week         | **+7,687** |
-| Contributions in last year  | **10,264** |
+| Contributions in last year  | **10,267** |
 
 **≈5×** the output of a 100-engineer team at a fraction of the cost.
 
